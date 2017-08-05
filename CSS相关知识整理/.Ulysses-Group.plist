@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>createMarkedFile</key>
+	<integer>0</integer>
+	<key>resolutionData</key>
+	<dict>
+		<key>createMarkedFile</key>
+		<real>523616057.563667</real>
+		<key>sheetClusters</key>
+		<dict>
+			<key>CSS三大特性.md</key>
+			<dict>
+				<key>lastModification</key>
+				<real>523616108.52372998</real>
+				<key>version</key>
+				<dict>
+					<key>ab425f9b5e21800d08e32eaaf4a48070958a509a4ed5e62d77ed94fb031f00e7</key>
+					<integer>3</integer>
+				</dict>
+			</dict>
+		</dict>
+		<key>userIconName</key>
+		<real>523616062.73955297</real>
+	</dict>
+	<key>sheetClusters</key>
+	<array>
+		<array>
+			<string>CSS三大特性.md</string>
+		</array>
+	</array>
+	<key>storeFormatVersion</key>
+	<integer>1</integer>
+	<key>userIconName</key>
+	<string>Folder</string>
+	<key>versioning</key>
+	<dict>
+		<key>createMarkedFile</key>
+		<dict>
+			<key>ab425f9b5e21800d08e32eaaf4a48070958a509a4ed5e62d77ed94fb031f00e7</key>
+			<integer>2</integer>
+		</dict>
+		<key>sheetClusters</key>
+		<dict>
+			<key>ab425f9b5e21800d08e32eaaf4a48070958a509a4ed5e62d77ed94fb031f00e7</key>
+			<integer>4</integer>
+		</dict>
+		<key>userIconName</key>
+		<dict>
+			<key>ab425f9b5e21800d08e32eaaf4a48070958a509a4ed5e62d77ed94fb031f00e7</key>
+			<integer>16</integer>
+		</dict>
+	</dict>
+</dict>
+</plist>
