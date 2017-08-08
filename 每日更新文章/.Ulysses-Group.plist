@@ -26,6 +26,16 @@
 					<integer>15</integer>
 				</dict>
 			</dict>
+			<key>003 别被自己感动了.md</key>
+			<dict>
+				<key>lastModification</key>
+				<real>523904905.93806899</real>
+				<key>version</key>
+				<dict>
+					<key>ab425f9b5e21800d08e32eaaf4a48070958a509a4ed5e62d77ed94fb031f00e7</key>
+					<integer>21</integer>
+				</dict>
+			</dict>
 			<key>近期随笔.md</key>
 			<dict>
 				<key>lastModification</key>
@@ -44,6 +54,9 @@
 			<string>近期随笔.md</string>
 		</array>
 		<array>
+			<string>003 别被自己感动了.md</string>
+		</array>
+		<array>
 			<string>001 给自己的未来打点鸡血.md</string>
 		</array>
 		<array>
@@ -57,7 +70,7 @@
 		<key>sheetClusters</key>
 		<dict>
 			<key>ab425f9b5e21800d08e32eaaf4a48070958a509a4ed5e62d77ed94fb031f00e7</key>
-			<integer>16</integer>
+			<integer>22</integer>
 		</dict>
 	</dict>
 </dict>

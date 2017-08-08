@@ -16,6 +16,16 @@
 					<integer>7</integer>
 				</dict>
 			</dict>
+			<key>002 8月9日ORID总结.md</key>
+			<dict>
+				<key>lastModification</key>
+				<real>523904495.41050798</real>
+				<key>version</key>
+				<dict>
+					<key>ab425f9b5e21800d08e32eaaf4a48070958a509a4ed5e62d77ed94fb031f00e7</key>
+					<integer>11</integer>
+				</dict>
+			</dict>
 			<key>8月5日前端记录.md</key>
 			<dict>
 				<key>lastModification</key>
@@ -36,6 +46,9 @@
 		<array>
 			<string>001 8月8日ORID总结.md</string>
 		</array>
+		<array>
+			<string>002 8月9日ORID总结.md</string>
+		</array>
 	</array>
 	<key>storeFormatVersion</key>
 	<integer>1</integer>
@@ -44,7 +57,7 @@
 		<key>sheetClusters</key>
 		<dict>
 			<key>ab425f9b5e21800d08e32eaaf4a48070958a509a4ed5e62d77ed94fb031f00e7</key>
-			<integer>8</integer>
+			<integer>12</integer>
 		</dict>
 	</dict>
 </dict>
