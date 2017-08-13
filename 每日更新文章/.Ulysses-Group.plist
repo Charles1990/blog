@@ -19,21 +19,71 @@
 			<key>002 最没用的话其实是我等你.md</key>
 			<dict>
 				<key>lastModification</key>
-				<real>523817121.744923</real>
+				<real>524331862.65123898</real>
 				<key>version</key>
 				<dict>
 					<key>ab425f9b5e21800d08e32eaaf4a48070958a509a4ed5e62d77ed94fb031f00e7</key>
-					<integer>15</integer>
+					<integer>70</integer>
 				</dict>
 			</dict>
 			<key>003 别被自己感动了.md</key>
 			<dict>
 				<key>lastModification</key>
-				<real>523904905.93806899</real>
+				<real>524078825.51584601</real>
 				<key>version</key>
 				<dict>
 					<key>ab425f9b5e21800d08e32eaaf4a48070958a509a4ed5e62d77ed94fb031f00e7</key>
-					<integer>21</integer>
+					<integer>42</integer>
+				</dict>
+			</dict>
+			<key>004 你以为你勤奋异常其实只是别人的日常.md</key>
+			<dict>
+				<key>lastModification</key>
+				<real>524078824.190404</real>
+				<key>version</key>
+				<dict>
+					<key>ab425f9b5e21800d08e32eaaf4a48070958a509a4ed5e62d77ed94fb031f00e7</key>
+					<integer>40</integer>
+				</dict>
+			</dict>
+			<key>005 关于《刻意学习》的读书笔记和评论.md</key>
+			<dict>
+				<key>lastModification</key>
+				<real>524230355.88067597</real>
+				<key>version</key>
+				<dict>
+					<key>ab425f9b5e21800d08e32eaaf4a48070958a509a4ed5e62d77ed94fb031f00e7</key>
+					<integer>53</integer>
+				</dict>
+			</dict>
+			<key>006 月入1500元，我是如何度这一生的.md</key>
+			<dict>
+				<key>lastModification</key>
+				<real>524331847.13145</real>
+				<key>version</key>
+				<dict>
+					<key>ab425f9b5e21800d08e32eaaf4a48070958a509a4ed5e62d77ed94fb031f00e7</key>
+					<integer>63</integer>
+				</dict>
+			</dict>
+			<key>007 本周总结.md</key>
+			<dict>
+				<key>lastModification</key>
+				<real>524331899.54640299</real>
+				<key>version</key>
+				<dict>
+					<key>ab425f9b5e21800d08e32eaaf4a48070958a509a4ed5e62d77ed94fb031f00e7</key>
+					<integer>73</integer>
+				</dict>
+			</dict>
+			<key>008 关于构建自己知识框架的思考.md</key>
+			<dict>
+				<key>lastModification</key>
+				<real>524331985.07232702</real>
+				<key>version</key>
+				<dict>
+					<key>ab425f9b5e21800d08e32eaaf4a48070958a509a4ed5e62d77ed94fb031f00e7</key>
+					<integer>81</integer>
 				</dict>
 			</dict>
 			<key>近期随笔.md</key>
@@ -54,13 +104,28 @@
 			<string>近期随笔.md</string>
 		</array>
 		<array>
+			<string>008 关于构建自己知识框架的思考.md</string>
+		</array>
+		<array>
+			<string>007 本周总结.md</string>
+		</array>
+		<array>
+			<string>006 月入1500元，我是如何度这一生的.md</string>
+		</array>
+		<array>
+			<string>005 关于《刻意学习》的读书笔记和评论.md</string>
+		</array>
+		<array>
+			<string>004 你以为你勤奋异常其实只是别人的日常.md</string>
+		</array>
+		<array>
 			<string>003 别被自己感动了.md</string>
 		</array>
 		<array>
-			<string>001 给自己的未来打点鸡血.md</string>
+			<string>002 最没用的话其实是我等你.md</string>
 		</array>
 		<array>
-			<string>002 最没用的话其实是我等你.md</string>
+			<string>001 给自己的未来打点鸡血.md</string>
 		</array>
 	</array>
 	<key>storeFormatVersion</key>
@@ -70,7 +135,7 @@
 		<key>sheetClusters</key>
 		<dict>
 			<key>ab425f9b5e21800d08e32eaaf4a48070958a509a4ed5e62d77ed94fb031f00e7</key>
-			<integer>22</integer>
+			<integer>82</integer>
 		</dict>
 	</dict>
 </dict>
